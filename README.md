@@ -1,4 +1,4 @@
-# Hi 👋 I am Tommy Lee! ~no not THAT Tommy Lee~ 
+# Hi 👋 I am Tommy Lee![^1]
 
 # I'm an aspiring Full-Stack Software Developer from Halifax, Nova Scotia
 
@@ -18,3 +18,9 @@ I am a Canadian Armed Forces Data Analyst, avidly transitioning into the tech se
 
 - Vanilla JS
 - SQL
+
+
+
+
+
+[^1]: No not ThAT Tommy Lee, but I did used to drum a bit
