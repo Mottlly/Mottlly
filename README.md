@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi 👋 I am Tommy Lee! ~no not THAT Tommy Lee~ 
 
-<!--
-**Mottlly/Mottlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm an aspiring Full-Stack Software Developer from Halifax, Nova Scotia
 
-Here are some ideas to get you started:
+## About Me :smile:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Canadian Armed Forces Data Analyst, avidly transitioning into the tech sector with the help of the Get Coding program! I have just released Version 1.0 of my first project site: SeekIt - The Pantry Manager, and will be working to build my skills in Node.js and React.js.
+
+## Projects :muscle:
+
+- [SeekIt - The Pantry Manager](https://mottlly.github.io/SeekitStart/)
+
+## My Socials :mailbox_with_mail:
+
+- [LinkedIn](https://www.linkedin.com/in/tommy-lee-7099b0294/)
+
+## Languages and Skills :wrench:
+
+- Vanilla JS
+- SQL
