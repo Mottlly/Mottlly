@@ -23,4 +23,4 @@ I am a Canadian Armed Forces Data Analyst, avidly transitioning into the tech se
 
 
 
-[^1]: No not ThAT Tommy Lee, but I did used to drum a bit
+[^1]: No not THAT Tommy Lee, but I did used to drum a bit
