@@ -1,4 +1,4 @@
-# Hi 👋 I am Tommy Lee![^1]
+# Hi 👋 I'm Tommy Lee![^1]
 
 ## I'm an aspiring Full-Stack Software Developer from Halifax, Nova Scotia
 
