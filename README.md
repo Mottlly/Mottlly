@@ -3,7 +3,7 @@
 </div> 
  <h1 id="greeting" align="center">Hi! I'm Tommy Lee :wave:</h1>
 
-## I'm an aspiring Full-Stack Software Developer from Halifax, Nova Scotia
+<h2 id="Intro" align="center">I'm an aspiring Full-Stack Software Developer from Halifax, Nova Scotia</h2>
 
 ### About Me :smile:
 
