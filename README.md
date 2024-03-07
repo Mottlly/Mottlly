@@ -12,6 +12,7 @@ I am a Canadian Armed Forces Data Analyst, avidly transitioning into the tech se
 ### Projects :muscle:
 
 - [SeekIt - The Pantry Manager](https://mottlly.github.io/SeekitStart/)
+- [My Portfolio](https://mottlly.github.io/PortfolioWebsite/)
 
 ### My Socials :mailbox_with_mail:
 
