@@ -28,7 +28,7 @@ I am a Canadian Armed Forces Data Analyst, avidly transitioning into the tech se
 - Tableau
 
 <div id="streak" align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mottlly&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mottlly&theme=transparent" alt="GitHub Streak" /></a>
 </div>
 
 <div>
