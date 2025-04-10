@@ -10,6 +10,7 @@
 A software developer making games and passion projects by night and a military intelligence analyst by day. If you want to collaborate, just let me know!
 
 "Art for art's sake is an empty phrase. Art for the sake of truth, art for the sake of the good and the beautiful, that is the faith I am searching for."
+
 -George Sand
 
 ### Projects :muscle:
