@@ -3,11 +3,14 @@
 </div> 
  <h1 id="greeting" align="center">Hi! I'm Tommy Lee :wave:</h1>
 
-<h2 id="Intro" align="center">I'm an aspiring Full-Stack Software Developer from Halifax, Nova Scotia</h2>
+<h2 id="Intro" align="center">I'm a Full-Stack Software Developer and Intelligence Analyst from Halifax, Nova Scotia</h2>
 
 ### About Me :smile:
 
-I am a Canadian Armed Forces Data Analyst, avidly transitioning into the tech sector with the help of the Get Coding program! I have just released Version 1.0 of my first project site: SeekIt - The Pantry Manager, and will be working to build my skills in Node.js and React.js.
+A software developer making games and passion projects by night and a military intelligence analyst by day. If you want to collaborate, just let me know!
+
+"Art for art's sake is an empty phrase. Art for the sake of truth, art for the sake of the good and the beautiful, that is the faith I am searching for."
+-George Sand
 
 ### Projects :muscle:
 
