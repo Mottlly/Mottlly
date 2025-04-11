@@ -16,7 +16,7 @@ A software developer making games and passion projects by night and a military i
 ### Projects :muscle:
 
 - [SeekIt - The Pantry Manager](https://mottlly.github.io/SeekitStart/)
-- [My Portfolio](tommylee.site)
+- [My Portfolio](https://tommylee.site/)
 
 ### My Socials :mailbox_with_mail:
 
