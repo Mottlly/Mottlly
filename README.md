@@ -14,7 +14,8 @@ A software developer making games and passion projects by night and a military i
 -George Sand
 
 ### Projects :muscle:
-
+- [Project Armageddon](https://github.com/Mottlly/4x_next)
+- [In Obscurum](https://obscurum-1n774k67p-mottllys-projects.vercel.app)
 - [SeekIt - The Pantry Manager](https://mottlly.github.io/SeekitStart/)
 - [My Portfolio](https://tommylee.site/)
 
